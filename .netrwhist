@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/Users/dhavalsavalia/.config/nvim/utils/vscode_config'
+let g:netrw_dirhist_4='/Users/dhavalsavalia/projects/python/fastapi-tdd-docker/project/app'
+let g:netrw_dirhist_3='/Users/dhavalsavalia/projects/python/fastapi-tdd-docker/project'
+let g:netrw_dirhist_2='/Users/dhavalsavalia/.config/nvim/keys'
+let g:netrw_dirhist_1='/Users/dhavalsavalia/projects/python/fastapi-tdd-docker'
+let g:netrw_dirhist_0='/Users/dhavalsavalia/projects/python/fastapi-tdd-docker/project/app'
+let g:netrw_dirhist_9='/Users/dhavalsavalia/projects/python/fastapi-tdd-docker/project'
+let g:netrw_dirhist_8='/Users/dhavalsavalia/projects/python/fastapi-tdd-docker/project/db'
+let g:netrw_dirhist_7='/Users/dhavalsavalia/projects/python/fastapi-tdd-docker/project'
+let g:netrw_dirhist_6='/Users/dhavalsavalia/projects/python/fastapi-tdd-docker'
